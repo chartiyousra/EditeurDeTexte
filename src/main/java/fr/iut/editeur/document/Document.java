@@ -26,6 +26,10 @@ public class Document {
         texte = partieGauche + remplacement + partieDroite;
     }
 
+    public void effacer(int debut, int fin) {
+        remplacer(debut,fin,"");
+    }
+
     @Override
     public String toString() {
         return this.texte;
