@@ -19,7 +19,6 @@ public class Document {
     public void ajouter(String texte) {
         this.texte += texte;
     }
-    hehe
 
     public void remplacer(int debut, int fin, String remplacement) {
         String partieGauche = texte.substring(0, debut);
@@ -27,6 +26,7 @@ public class Document {
         texte = partieGauche + remplacement + partieDroite;
     }
     public void clear(){
+        hehe
         effacer(0,texte.length() - 1);
     }
 
