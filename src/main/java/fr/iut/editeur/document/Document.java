@@ -31,9 +31,7 @@ public class Document {
 
     public void inserer(int debut, String ajout) {
         String partieGauche = texte.substring(0, debut);
-        System.out.println(partieGauche);
         String partieDroite = texte.substring(debut);
-        System.out.println(partieDroite);
         texte = partieGauche + ajout + partieDroite;
     }
 

@@ -21,5 +21,9 @@ public class CommandeInserer extends CommandeDocument {
         this.document.inserer(Integer.parseInt(debut),ajout);
         super.executer();
     }
+    @Override
+    public String getDescriptionCommande(){
+        return "description commande inserer";
+    }
 
 }

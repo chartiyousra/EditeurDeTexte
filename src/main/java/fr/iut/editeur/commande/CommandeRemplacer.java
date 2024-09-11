@@ -25,4 +25,9 @@ public class CommandeRemplacer extends CommandeDocument {
         super.executer();
     }
 
+    @Override
+    public String getDescriptionCommande(){
+        return "description commande remplacer";
+    }
+
 }
