@@ -22,4 +22,9 @@ public class CommandeEffacer extends CommandeDocument {
         super.executer();
     }
 
+    @Override
+    public String getDescriptionCommande(){
+        return "description commande effacer";
+    }
+
 }
