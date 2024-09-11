@@ -14,7 +14,6 @@ public class CommandeEffacer extends CommandeDocument {
             System.err.println("Format attendu : remplacer;debut;fin");
             return;
         }
-        //ajout commentaire pour commit
         String debut = parameters[1];
         String fin = parameters[2];
 

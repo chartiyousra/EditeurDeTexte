@@ -31,10 +31,19 @@ public class Document {
 
     public void inserer(int debut, String ajout) {
         String partieGauche = texte.substring(0, debut);
-        System.out.println(partieGauche);
         String partieDroite = texte.substring(debut);
-        System.out.println(partieDroite);
         texte = partieGauche + ajout + partieDroite;
+    }
+
+    public void majuscules(int debut, int fin) {
+        String partie = texte.substring(debut, fin);
+        partie = partie.toUpperCase();
+        remplacer(debut, fin-1, partie);
+    }
+    public void minuscules(int debut, int fin) {
+        String partie = texte.substring(debut, fin);
+        partie = partie.toLowerCase();
+        remplacer(debut, fin-1, partie);
     }
 
     public void effacer(int debut, int fin) {
