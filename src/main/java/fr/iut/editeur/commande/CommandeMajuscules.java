@@ -21,5 +21,8 @@ public class CommandeMajuscules extends CommandeDocument {
         super.executer();
     }
 
-
+    @Override
+    public String getDescriptionCommande(){
+        return "description commande majuscules";
+    }
 }

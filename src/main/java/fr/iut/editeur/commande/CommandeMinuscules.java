@@ -20,6 +20,9 @@ public class CommandeMinuscules extends CommandeDocument {
         this.document.majuscules(Integer.parseInt(debut), Integer.parseInt(fin));
         super.executer();
     }
-
+    @Override
+    public String getDescriptionCommande(){
+        return "description commande minuscule";
+    }
 
 }
