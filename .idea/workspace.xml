@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5b1d92e-fcf4-44bd-9580-5013b4f68523" name="Changes" comment="feat : bug" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="effacer_feature" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2lhRh4JyHI5J3qCKsuTL9hizrsf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/yousra/qualitéDeDev/TD1 Tam",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.iut.editeur.Main" />
+      <module name="EditeurDeTexte" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.iut.editeur.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5b1d92e-fcf4-44bd-9580-5013b4f68523" name="Changes" comment="" />
+      <created>1725630442657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725630442657</updated>
+      <workItem from="1725630443939" duration="971000" />
+      <workItem from="1725631435860" duration="3966000" />
+      <workItem from="1725977510903" duration="5085000" />
+      <workItem from="1725983348928" duration="369000" />
+      <workItem from="1726078421822" duration="264000" />
+      <workItem from="1726083759780" duration="386000" />
+    </task>
+    <task id="LOCAL-00001" summary="gitignone">
+      <option name="closed" value="true" />
+      <created>1725631772868</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725631772868</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ajout README">
+      <option name="closed" value="true" />
+      <created>1725631849291</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725631849291</updated>
+    </task>
+    <task id="LOCAL-00003" summary="CommandeRemplacer">
+      <option name="closed" value="true" />
+      <created>1725632652354</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725632652354</updated>
+    </task>
+    <task id="LOCAL-00004" summary="CommandeFactory">
+      <option name="closed" value="true" />
+      <created>1725633200883</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725633200883</updated>
+    </task>
+    <task id="LOCAL-00005" summary="majuscules">
+      <option name="closed" value="true" />
+      <created>1725979078175</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725979078175</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat : commande effacer">
+      <option name="closed" value="true" />
+      <created>1725981567619</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725981567619</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat : commande clear">
+      <option name="closed" value="true" />
+      <created>1725982386250</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725982386250</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat : bug">
+      <option name="closed" value="true" />
+      <created>1725982823152</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725982823152</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat : bug">
+      <option name="closed" value="true" />
+      <created>1725982966448</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725982966448</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitignone" />
+    <MESSAGE value="ajout README" />
+    <MESSAGE value="CommandeRemplacer" />
+    <MESSAGE value="CommandeFactory" />
+    <MESSAGE value="majuscules" />
+    <MESSAGE value="feat : commande effacer" />
+    <MESSAGE value="feat : commande clear" />
+    <MESSAGE value="feat : bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : bug" />
+  </component>
+</project>
