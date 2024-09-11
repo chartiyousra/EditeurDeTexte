@@ -25,6 +25,21 @@ public class Document {
         String partieDroite = texte.substring(fin + 1);
         texte = partieGauche + remplacement + partieDroite;
     }
+    public void clear(){
+        effacer(0,texte.length() - 1);
+    }
+
+    public void inserer(int debut, String ajout) {
+        String partieGauche = texte.substring(0, debut);
+        System.out.println(partieGauche);
+        String partieDroite = texte.substring(debut);
+        System.out.println(partieDroite);
+        texte = partieGauche + ajout + partieDroite;
+    }
+
+    public void effacer(int debut, int fin) {
+        remplacer(debut,fin,"");
+    }
 
     @Override
     public String toString() {
