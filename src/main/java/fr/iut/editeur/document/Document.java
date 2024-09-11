@@ -2,7 +2,7 @@ package fr.iut.editeur.document;
 
 public class Document {
 
-    private String texte;
+    private String texteDocument;
 
     public Document() {
         this.texte = "";
